@@ -1,0 +1,111 @@
+ROI_IDX,ICN,ROI_LABEL,X,Y,Z,ROI_NAME,ICN_NAME,REGIONS,NOTES
+1,0,0,-18,52,34,roi_-185234_roi.nii,DMN,sup frontal gyrus,
+2,0,1,-19,15,-22,roi_-1915-22_roi.nii,DMN,frontal orbital,post orbitofrontal
+3,0,0,-21,-38,67,roi_-21-3867_roi.nii,DMN,postcentral gyrus,
+4,0,1,-3,-13,-14,roi_-3-13-14_roi.nii,DMN,n/a,ventral tegmental area
+5,0,2,-31,-56,52,roi_-31-5652_roi.nii,DMN,sup parietal lobule,medial superior parietal lobule
+6,0,1,-34,-66,46,roi_-34-6646_roi.nii,DMN,lateral occipital,superior parietal lobule
+7,0,2,-4,-25,44,roi_-4-2544_roi.nii,DMN,post cingulate,caudal mid cingulate
+8,0,1,-4,-3,40,roi_-4-340_roi.nii,DMN,anterior cingulate,mid cingulate
+9,0,2,-4,-39,53,roi_-4-3953_roi.nii,DMN,precuneus,
+10,0,1,-47,-71,21,roi_-47-7121_roi.nii,DMN,lateral occipital,
+11,0,1,-53,8,-13,roi_-538-13_roi.nii,DMN,temporal pole,
+12,0,0,-55,-29,44,roi_-55-2944_roi.nii,DMN,supramarginal,lateral parietal
+13,0,0,-56,-49,36,roi_-56-4936_roi.nii,DMN,angular gyrus,
+14,0,0,-56,-57,-6,roi_-56-57-6_roi.nii,DMN,middle temporal gyrus,temporo-occipital junction
+15,0,1,-57,-3,7,roi_-57-37_roi.nii,DMN,precentral gyrus,central opercular ctx
+16,0,1,-7,-26,13,roi_-7-2613_roi.nii,DMN,pulvinar,thalamus - pulvinar
+17,0,2,-7,-53,3,roi_-7-533_roi.nii,DMN,lingual gyrus,retrosplenial
+18,0,1,15,-78,40,roi_15-7840_roi.nii,DMN,cuneus,retrosplenial
+19,0,0,17,53,37,roi_175337_roi.nii,DMN,sup frontal gyrus,sup cuneus
+20,0,0,20,-40,70,roi_20-4070_roi.nii,DMN,postcentral gyrus,
+21,0,1,30,-28,-30,roi_30-28-30_roi.nii,DMN,post fusiform,
+22,0,1,34,-72,39,roi_34-7239_roi.nii,DMN,lateral occipital,mid fusiform
+23,0,2,38,-50,53,roi_38-5053_roi.nii,DMN,angular gyrus,parieto-occipital jxn
+24,0,1,4,-15,-14,roi_4-15-14_roi.nii,DMN,n/a,medial superior parietal lobule
+25,0,1,41,-16,14,roi_41-1614_roi.nii,DMN,central operculum,ventral tegmental area
+26,0,1,43,-38,-26,roi_43-38-26_roi.nii,DMN,post fusiform,
+27,0,1,44,-15,1,roi_44-151_roi.nii,DMN,heschl's gyrus,post fusiform
+28,0,0,47,-37,53,roi_47-3753_roi.nii,DMN,supramarginal,medial planum temporale
+29,0,1,5,-75,24,roi_5-7524_roi.nii,DMN,cuneus,lateral parietal
+30,0,1,50,-66,25,roi_50-6625_roi.nii,DMN,lateral occipital,mid cuneus
+31,0,1,53,-63,23,roi_53-6323_roi.nii,DMN,lateral occipital,
+32,0,2,55,-49,36,roi_55-4936_roi.nii,DMN,angular gyrus,temporo-occipital jxn
+33,0,1,58,-22,-2,roi_58-22-2_roi.nii,DMN,STG,
+34,0,1,58,-55,-12,roi_58-55-12_roi.nii,DMN,post inferior temporal gyrus,
+35,0,1,58,-6,-3,roi_58-6-3_roi.nii,DMN,ant superior temporal gyrus,mid STG
+36,0,2,6,-25,43,roi_6-2543_roi.nii,DMN,post cingulate,caudal mid cingulate
+37,0,2,6,-38,53,roi_6-3853_roi.nii,DMN,precuneus,
+38,0,0,61,2,25,roi_61225_roi.nii,DMN,precentral gyrus,lateral precentral gyrus
+39,0,2,9,-51,3,roi_9-513_roi.nii,DMN,lingual gyrus,
+40,1,1,-12,-9,60,roi_-12-960_roi.nii,SN,SMA,
+41,1,2,-19,11,54,roi_-191154_roi.nii,SN,sup frontal gyrus,
+42,1,2,-21,48,-15,roi_-2148-15_roi.nii,SN,frontal pole,
+43,1,0,-23,54,14,roi_-235414_roi.nii,SN,sup frontal gyrus,ant mfg
+44,1,0,-36,7,47,roi_-36747_roi.nii,SN,middle frontal gyrus,post mfg
+45,1,0,-37,-29,-26,roi_-37-29-26_roi.nii,SN,post fusiform,mid fusiform ?parahippocampal
+46,1,2,-37,27,-12,roi_-3727-12_roi.nii,SN,ant FI,
+47,1,2,-38,-72,39,roi_-38-7239_roi.nii,SN,lateral occipital,parieto-occipital jxn
+48,1,0,-41,10,-28,roi_-4110-28_roi.nii,SN,temporal pole,
+49,1,0,-4,40,-14,roi_-440-14_roi.nii,SN,medial frontal ctx,vmpfc
+50,1,0,-45,17,31,roi_-451731_roi.nii,SN,middle frontal gyrus,
+51,1,0,-45,38,4,roi_-45384_roi.nii,SN,inf frontal gyrus,
+52,1,0,-49,-10,-34,roi_-49-10-34_roi.nii,SN,inf temporal gyrus,ant itg
+53,1,0,-6,39,29,roi_-63929_roi.nii,SN,ant paracingulate,
+54,1,0,-6,49,9,roi_-6499_roi.nii,SN,ant paracingulate,ampfc
+55,1,2,-7,17,48,roi_-71748_roi.nii,SN,paracingulate,mid paracingulate
+56,1,0,-8,50,-23,roi_-850-23_roi.nii,SN,frontal pole,medial orbitofrontal
+57,1,2,10,-8,49,roi_10-849_roi.nii,SN,SMA,post paracingulate (inf post SMA)
+58,1,2,10,14,50,roi_101450_roi.nii,SN,paracingulate,mid paracingulate
+59,1,0,10,21,30,roi_102130_roi.nii,SN,ant cingulate,
+60,1,2,10,27,49,roi_102749_roi.nii,SN,sup frontal gyrus,
+61,1,2,19,53,-17,roi_1953-17_roi.nii,SN,frontal pole,
+62,1,0,32,52,17,roi_325217_roi.nii,SN,middle frontal gyrus,ant mfg
+63,1,2,38,26,-10,roi_3826-10_roi.nii,SN,ant FI,
+64,1,0,4,40,-13,roi_440-13_roi.nii,SN,medial frontalvmpfc,
+65,1,0,45,6,-32,roi_456-32_roi.nii,SN,temporal pole,
+66,1,0,48,40,4,roi_48404_roi.nii,SN,inf frontal gyrus,
+67,1,0,50,21,31,roi_502131_roi.nii,SN,middle frontal gyrus,
+68,1,0,51,-10,-35,roi_51-10-35_roi.nii,SN,inf temporal gyrus,ant itg
+69,1,0,6,39,29,roi_63929_roi.nii,SN,ant paracingulate,
+70,1,0,6,49,9,roi_6499_roi.nii,SN,ant paracingulate,ampfc
+71,1,0,6,50,-22,roi_650-22_roi.nii,SN,frontal pole,medial orbitofrontal
+72,2,2,-19,33,47,roi_-193347_roi.nii,ECN,sup frontal gyrus,mid sup frontal gyrus
+73,2,2,-20,16,54,roi_-201654_roi.nii,ECN,sup frontal gyrus,SMA
+74,2,2,-24,59,0,roi_-24590_roi.nii,ECN,frontal pole,frontal pole
+75,2,1,-29,-76,36,roi_-29-7636_roi.nii,ECN,lateral occipital,medial parietooccipital junction
+76,2,0,-31,37,-16,roi_-3137-16_roi.nii,ECN,frontal orbital,lateral orbitofrontal
+77,2,0,-35,10,-32,roi_-3510-32_roi.nii,ECN,temporal pole,temporal pole
+78,2,0,-36,47,-12,roi_-3647-12_roi.nii,ECN,frontal pole,lateral frontal pole
+79,2,0,-37,8,47,roi_-37847_roi.nii,ECN,middle frontal gyrus,posterior MFG
+80,2,0,-38,-26,-27,roi_-38-26-27_roi.nii,ECN,temporal fusiform,anterior fusiform
+81,2,1,-46,16,2,roi_-46162_roi.nii,ECN,frontal operculum,IFG pars opercularis
+82,2,2,-46,36,17,roi_-463617_roi.nii,ECN,frontal pole,anterior middle frontal gyrus
+83,2,2,-46,36,2,roi_-46362_roi.nii,ECN,frontal pole,ventrolateral PFC
+84,2,1,-54,0,6,roi_-5406_roi.nii,ECN,central operculum,central operculum
+85,2,1,-54,6,15,roi_-54615_roi.nii,ECN,precentral gyrus,posterior IFG
+86,2,0,-6,30,-23,roi_-630-23_roi.nii,ECN,subcallosal,orbitofrontal
+87,2,0,-6,31,29,roi_-63129_roi.nii,ECN,paracingulate,anterior cingulate
+88,2,0,-6,41,-9,roi_-641-9_roi.nii,ECN,paracingulate,vmpfc
+89,2,0,-6,51,6,roi_-6516_roi.nii,ECN,paracingulate,aMPFC
+90,2,0,-7,11,47,roi_-71147_roi.nii,ECN,paracingulate,mid paracingulate
+91,2,0,-7,19,36,roi_-71936_roi.nii,ECN,anterior cingulate,mid cingulate
+92,2,0,11,18,-21,roi_1118-21_roi.nii,ECN,frontal orbital,orbitofrontal
+93,2,0,11,31,-23,roi_1131-23_roi.nii,ECN,frontal orbital,orbitofrontal
+94,2,2,21,13,57,roi_211357_roi.nii,ECN,sup frontal gyrus,SMA
+95,2,2,25,54,27,roi_255427_roi.nii,ECN,frontal pole,dorsomedial frontopolar
+96,2,2,30,59,1,roi_30591_roi.nii,ECN,frontal pole,frontal pole
+97,2,2,31,37,-16,roi_3137-16_roi.nii,ECN,frontal pole,lateral orbitofrontal
+98,2,0,35,14,-10,roi_3514-10_roi.nii,ECN,insula,R anterior insula
+99,2,0,39,47,-12,roi_3947-12_roi.nii,ECN,frontal pole,lateral frontal pole
+100,2,2,44,36,20,roi_443620_roi.nii,ECN,middle frontal gyrus,DLPFC - SEED
+101,2,2,47,16,-1,roi_4716-1_roi.nii,ECN,frontal operculum,IFG pars opercularis
+102,2,0,47,6,-31,roi_476-31_roi.nii,ECN,temporal pole,temporal pole
+103,2,2,49,39,0,roi_49390_roi.nii,ECN,frontal pole,ventrolateral PFC
+104,2,0,52,-12,-36,roi_52-12-36_roi.nii,ECN,inferior temporal gyrus,anterior ITG
+105,2,0,55,0,4,roi_5504_roi.nii,ECN,central operculum,central operculum
+106,2,0,6,41,-8,roi_641-8_roi.nii,ECN,paracingulate,vmpfc
+107,2,1,7,-1,47,roi_7-147_roi.nii,ECN,cingulate gyrus,SMA
+108,2,0,7,23,30,roi_72330_roi.nii,ECN,anterior cingulate,mid cingulate
+109,2,0,7,36,23,roi_73623_roi.nii,ECN,anterior cingulate,anterior cingulate
+110,2,0,8,51,6,roi_8516_roi.nii,ECN,paracingulate,aMPFC
